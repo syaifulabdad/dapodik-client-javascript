@@ -1,4 +1,5 @@
 <script>
+  console.log('testing.......');
   class ApiClient {
     constructor(baseURL) {
       this.baseURL = baseURL;
