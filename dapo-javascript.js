@@ -1,4 +1,4 @@
-console.log('testing.......');
+alert('asdasdas');
 class ApiClient {
   constructor(baseURL) {
     this.baseURL = baseURL;
